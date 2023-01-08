@@ -44,6 +44,7 @@
     transition: .5s;
 }
 
+
 .btn.btn-primary,
 .btn.btn-secondary {
     color: #FFFFFF;
@@ -88,7 +89,6 @@
 
 .navbar-light .navbar-nav .nav-link {
     margin-right: 30px;
-    padding: 25px 0;
     color: #FFFFFF;
     font-size: 15px;
     text-transform: uppercase;
@@ -113,7 +113,7 @@
 
 .navbar-light .navbar-brand,
 .navbar-light a.btn {
-    height: 75px;
+    height: 75zzpx;
 }
 
 .navbar-light .navbar-nav .nav-link {
